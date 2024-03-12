@@ -7,3 +7,6 @@ user is done adding students, the program will newly created stack of students. 
 delete any students from the stack. If the user chooses yes, the program will prompt the user for the id number of the student
 they want to delete from the stack. The program will verigy if the id is in the current stack and removie the student if found.
 The program will then display the update student stack
+
+## Current Build
+![Current Build Image](images/CurrentBuild.PNG)
